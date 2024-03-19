@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/digitalclock.html"\
+status = 200
